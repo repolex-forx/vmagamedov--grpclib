@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/vmagamedov/grpclib/commit/0d27158f98aa939493009e6844576d81ec7d8254",
       "git:hexsha": "0d27158f98aa939493009e6844576d81ec7d8254",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.4.9"
     },
     {
